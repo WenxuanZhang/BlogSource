@@ -3,7 +3,7 @@ Date: 2017-10-07 10:30
 Modified: 2017-10-07 19:40
 Category: Python
 Tags: pelican, publishing
-Slug: hello-second
+Slug: hello-third
 
 This is my third  test posst
 
