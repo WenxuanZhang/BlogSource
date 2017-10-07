@@ -17,6 +17,9 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = False
+THEME = "pelican-themes/voidy-bootstrap"
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['assets']
 
 # Following items are often useful when publishing
 
