@@ -7,7 +7,7 @@ Slug: About
 Authors: Wenxuan Zhang
 Summary: Short version for index and feeds
 
-<img style="float:left; padding-left:10px" src="|filename|/images/wtc.jpg" />
+<img style="float:left; padding-left:10px;padding- right:10px " src="|filename|/images/wtc.jpg" /height="100" >
 
 
 
