@@ -7,4 +7,4 @@ Slug: Contact
 Authors: Wenxuan Zhang
 Summary: Short version for index and feeds
 
-This is the content of my super blog post.
+<wz2270@columbia.edu>
